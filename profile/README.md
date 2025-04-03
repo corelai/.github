@@ -1,3 +1,8 @@
+<div align='center'>
+<img src="../assets/logo.png" style='width:200px' />
+<div>
+
+
 # 👁 CORELAI
 
 **Corelai** is an open-source megacorporation simulation and software framework —  
