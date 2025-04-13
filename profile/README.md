@@ -8,7 +8,9 @@
 **Corelai** is an open-source megacorporation simulation and software framework —  
 a hybrid between science-fiction lore, real-world infrastructure, and bleeding-edge technology.
 
-> “From logic we emerge. Through code we ascend.” *(wip)*
+> “Glory to the Build.  
+Strength to the Lore.  
+Control to Corelai.”
 
 ---
 
