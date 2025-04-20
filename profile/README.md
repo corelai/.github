@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="../assets/logo.png" style='width:200px' />
+<img src="../assets/corelai-logo.png" style='width:200px' />
 </div>
 
 
